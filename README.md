@@ -34,9 +34,8 @@ The system was mathematically sized for an 8500-hour operational lifespan under 
 ```text
 📦 CNC-Linear-Servo-Drive
  ┣ 📂 CAD_Models
- ┃ ┣ 📜 CNC_Assembly.step        # Full assembly for universal CAD viewing
- ┃ ┗ 📜 Native_SolidWorks_Files/ # Original .sldprt and .sldasm files
+ ┃ ┗ 📜 CNC_Assembly.step             # Full assembly for universal CAD viewing
  ┣ 📂 Documentation
- ┃ ┣ 📜 2D_Manufacturing_Drawing.pdf  # A0/A1 Assembly drawing with GD&T
+ ┃ ┣ 📜 2D_Manufacturing_Drawing.pdf  # A0 Assembly drawing with GD&T
  ┃ ┗ 📜 Engineering_Calculations.pdf  # 17-page mathematical sizing & component selection
  ┗ 📜 README.md
