@@ -13,7 +13,7 @@ This repository contains the complete mechanical and mechatronic design of a hea
 Rather than a basic mechanical assembly, this project focuses on real-world industrial reliability and automation principles:
 
 * **Optimized Homing & Soft Limits:** To reduce wiring complexity in the cable drag chain, the system uses a single traveling limit switch (Balluff BNS001K). Homing logic and directional memory (State Tracking) are utilized to establish the machine zero, while the opposite end relies on software limits (Soft Limits) and mechanical hard stops with torque-limit monitoring.
-* **Master-Slave Guideway Architecture:** To prevent hyperstatic binding due to microscopic manufacturing inaccuracies, the linear rails are designed with a Master-Slave configuration. The Master rail provides strict lateral alignment via clamping plates, while the Slave rail allows micro-lateral compliance.
+* **Master-Slave Guideway Architecture:** To prevent hyperstatic binding due to microscopic manufacturing inaccuracies, the linear rails are designed with a Master-Slave configuration. The Master rail is strictly aligned against a machined reference shoulder, while the Slave rail is precisely adjusted and secured using **lateral set screws (grub screws)**. This ensures perfect parallelism and smooth operation without overloading the linear bearings.
 * **GD&T Manufacturing Standards:** All custom components (bed, table, motor mount) are dimensioned using strict Geometric Dimensioning and Tolerancing (GD&T) standards, including precise fits (e.g., H7/g6, H7/j6) for bearing housings and the ball nut.
 
 ## 📊 Technical Specifications
