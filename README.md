@@ -7,7 +7,7 @@
 ## Overview
 This repository contains the complete mechanical and mechatronic design of a heavy-duty, high-precision linear ball screw servo drive system for a CNC machine. The project includes 3D CAD models, GD&T compliant manufacturing drawings, and full mathematical sizing documentation based on industrial catalogs.
 
-![Hero Image Placeholder](https://github.com/Zsoli28/High-Precision-CNC-Linear-Servo-Drive/blob/main/full.png?raw=true)
+![Hero Image Placeholder](https://github.com/Zsoli28/High-Precision-CNC-Linear-Servo-Drive/blob/main/Documentation/cnc_isometric.png?raw=true)
 
 ## 💡 Key Engineering Highlights
 Rather than a basic mechanical assembly, this project focuses on real-world industrial reliability and automation principles:
